@@ -1,20 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Beautygram project and I’m using Laravel
-- 🌱 I’m currently learning Laravel
-- 📫 How to reach me: mobinerr@gmail.com  |  +98 936 075 1714
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| HTML      |
-|     3| CSS       |
-|     4| React.js  |
-|     5| Next.js   |
-|     6| Laravel   |
-|     7| PHP       |
-
-
 <h1 align="center">Hi 👋, I'm Mobin Shokri</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
@@ -26,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js & Laravel**
 
-- 📫 How to reach me **mobinerr@gmail.com**
+- 📫 How to reach me **mobinerr@gmail.com**   |  +98 936 075 1714
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
