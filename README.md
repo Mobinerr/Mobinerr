@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js & Laravel**
 
-- 📫 How to reach me **mobinerr@gmail.com**   |  +98 936 075 1714
+- 📫 How to reach me **mobinerr@gmail.com**   |  **0936-075-1714**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
